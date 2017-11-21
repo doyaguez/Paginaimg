@@ -1,0 +1,16 @@
+#header{
+	background:blue;
+	color: white; 
+}
+
+.opt{
+	float: left;
+	}
+.no_opt{
+	float: right;
+	
+}
+.icon{
+	text-align: center;
+	float: left;
+}
